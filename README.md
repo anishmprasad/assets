@@ -1,8 +1,10 @@
-# assets 
+# Assets 
 
-A repo for delivering all assets
+A Repo for delivering all assets
 
 # License 
 MIT
 
-# ONlY FOR INTERNAL PURPOSE
+# ONLY FOR INTERNAL PURPOSE
+
+Sample URL Patterns
