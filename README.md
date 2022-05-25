@@ -1,3 +1,5 @@
+# ONLY FOR INTERNAL PURPOSE
+
 # Assets 
 
 A Repo for delivering all assets
@@ -5,6 +7,6 @@ A Repo for delivering all assets
 # License 
 MIT
 
-# ONLY FOR INTERNAL PURPOSE
 
-Sample URL Patterns
+Sample URL Patterns 
+https://raw.githubusercontent.com/anishmprasad/assets/main/wave.gif
